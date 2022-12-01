@@ -1,0 +1,8 @@
+.idea
+/vendor/
+demo.php
+VERSION
+*.zip
+.DS_Store
+auth.json
+AUTH
